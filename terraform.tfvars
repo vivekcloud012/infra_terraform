@@ -1,0 +1,5 @@
+aws_region          = "us-east-1"
+project_name        = "my-app"
+db_password         = "your-secure-password"
+ssh_key_name        = "your-ssh-key-name"
+ssh_access_cidr     = "your-ip/32"
